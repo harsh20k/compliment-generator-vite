@@ -1,21 +1,54 @@
-# React + TypeScript + Vite
+# 🎉 Compliment Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A small project built during my first days at **Dalhousie University** while classes were delayed due to the faculty strike.
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+It’s a reminder that even in uncertain times, there’s always space to **learn, build, and share**.
 
-## Deploy Your Own
+This app is intentionally simple but demonstrates a **full-stack deployment** using modern tools:
 
-Deploy your own Vite project with Vercel.
+- ⚛️ **Frontend**: React + Vite
+- 🔗 **Backend**: Vercel Serverless Function (`/api/compliment`)
+- 🚀 **Hosting**: Vercel (single URL for frontend + backend)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/framework-boilerplates/vite-react&template=vite-react)
+---
 
-_Live Example: https://vite-react-example.vercel.app_
+## ✨ Features
 
-### Deploying From Your Terminal
+- Click a button → get a random compliment
+- Minimal dark-themed UI
+- Serverless backend (no separate infra needed)
+- Deployed with **zero-config** on Vercel
 
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
+---
 
-```shell
-$ vercel
-```
+
+## 🚀 Live Demo
+
+👉 [Compliment Generator on Vercel](https://compliment-generator-vite.vercel.app)
+
+---
+
+## 📚 Lessons Learned
+
+• How to deploy a React + Vite frontend with a serverless backend on Vercel.
+• How small projects can be used to stay consistent and accountable while learning.
+• Importance of focusing on what you can control in times of uncertainty.
+
+---
+  
+## 📌 Next Steps
+
+• Deploy more “laughably simple” apps to keep learning momentum going
+
+---
+  
+## 🤝 Connect
+
+This project is part of my journey as a Master of Applied Computer Science (MACS) student at Dalhousie University.
+
+I’m building in public to stay accountable and connect with others.
+
+• 🌐 [LinkedIn](https://www.linkedin.com/in/harsh-pandey-1308ab277/)
+• 📬 Feel free to reach out for any thoughts and suggestions!
+
+---
